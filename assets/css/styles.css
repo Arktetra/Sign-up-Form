@@ -1,0 +1,33 @@
+img {
+    max-width: 30%;
+}
+
+body {
+    display: flex;
+    background-color: aliceblue;
+}
+
+.text {
+    margin: 100px 20px 10px;
+}
+
+.form-contents {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 20px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.submit-btn {
+    margin: 20px 20px;
+}
+
+.log-in {
+    margin-left: 20px;
+}
